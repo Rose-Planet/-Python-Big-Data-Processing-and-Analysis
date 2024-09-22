@@ -79,3 +79,4 @@ time.struct_time(tm_year=2016, tm_mon=7, tm_mday=20, tm_hour=0, tm_min=0, tm_sec
 # 查看变量类型与类型转换
 print(type('HEU'))
 print(complex(10086))
+print(type('HIT')
